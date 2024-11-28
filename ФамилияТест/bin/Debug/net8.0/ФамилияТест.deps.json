@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ФамилияТест/1.0.0": {
+        "dependencies": {
+          "ФамилияInspectorLib": "1.0.0"
+        },
+        "runtime": {
+          "ФамилияТест.dll": {}
+        }
+      },
+      "ФамилияInspectorLib/1.0.0": {
+        "runtime": {
+          "ФамилияInspectorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ФамилияТест/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ФамилияInspectorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
